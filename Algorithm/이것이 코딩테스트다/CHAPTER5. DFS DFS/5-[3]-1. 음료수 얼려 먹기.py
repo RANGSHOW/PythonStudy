@@ -26,3 +26,4 @@ mold = [
 
 if __name__ == "__main__":
     pprint(mold)
+    print("노트북에서 push됨")
